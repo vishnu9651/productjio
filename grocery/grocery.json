@@ -1,0 +1,1872 @@
+{
+    "fruitsveg": [
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg",
+    "discount": "38",
+    "title": "Good Life Almonds 500 g",
+    "brand": "GOOD LIFE",
+    "price": "9.00",
+    "new_price": "339.00",
+    "id": "1"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/491186631/good-life-w320-cashews-500-g-product-images-o491186631-p491186631-0-202205180138.jpg",
+    "discount": "20",
+    "title": "Good Life (W320) Cashews 500 g",
+    "brand": "GOOD LIFE",
+    "price": "499.00",
+    "new_price": "399.00",
+    "id": "2"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/490542219/kalpasree-coconut-oil-1-l-product-images-o490542219-p490542219-0-202203170326.jpg",
+    "discount": "38",
+    "title": "Kalpasree Coconut Oil 1 L",
+    "brand": "KALPASREE",
+    "price": "275.00",
+    "new_price": "169.00",
+    "id": "3"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/491278308/priya-fortified-with-vitamin-a-d-refined-sunflower-oil-1-l-product-images-o491278308-p491278308-0-202203170524.jpg",
+    "discount": "30",
+    "title": "Priya Fortified With Vitamin A & D Refined Sunflower Oil 1 L",
+    "brand": "PRIYA",
+    "price": "215.00",
+    "new_price": "149.00",
+    "id": "4"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/491551495/good-life-pure-crystal-sugar-m-5-kg-product-images-o491551495-p491551495-0-202205272019.jpg",
+    "discount": "21",
+    "title": "Good Life Pure Crystal Sugar (M) 5 kg",
+    "brand": "GOOD LIFE",
+    "price": "275.00",
+    "new_price": "215.00",
+    "id": "5"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/491349659/chakki-atta-5-kg-product-images-o491349659-p491349659-0-202204281316.jpg",
+    "discount": "28",
+    "title": "Chakki Atta 5 kg",
+    "brand": "PRIVATE LABEL",
+    "price": "235.00",
+    "new_price": "169.00",
+    "id": "6"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/491349660/chakki-atta-10-kg-product-images-o491349660-p491349660-0-202206231932.jpg",
+    "discount": "14",
+    "title": "Chakki Atta 10 kg",
+    "brand": "PRIVATE LABEL",
+    "price": "395.00",
+    "new_price": "339.00",
+    "id": "7"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/491376099/arwa-standard-katrni-rice-10-kg-product-images-o491376099-p491376099-0-202205191802.jpg",
+    "discount": "16",
+    "title": "Arwa Standard Katrni Rice 10 kg",
+    "brand": "PRIVATE LABEL",
+    "price": "600.00",
+    "new_price": "499.00",
+    "id": "8"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/491349724/matta-vadi-rice-10-kg-product-images-o491349724-p491349724-0-202204281545.jpg",
+    "discount": "8",
+    "title": "Matta Vadi Rice 10 kg",
+    "brand": "PRIVATE LABEL",
+    "price": "700.00",
+    "new_price": "639.00",
+    "id": "9"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/490862088/baskathi-premium-rice-10-kg-product-images-o490862088-p490862088-0-202208221852.jpg",
+    "discount": "11",
+    "title": "Baskathi Premium Rice 10 kg",
+    "brand": "PRIVATE LABEL",
+    "price": "800.00",
+    "new_price": "705.00",
+    "id": "10"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/491278616/good-life-raw-peanuts-500-g-product-images-o491278616-p491278616-0-202204281543.jpg",
+    "discount": "29",
+    "title": "Good Life Raw Peanuts 500 g",
+    "brand": "GOOD LIFE",
+    "price": "120.00",
+    "new_price": "85.00",
+    "id": "11"
+    },
+    {
+    "img": "https://www.jiomart.com/images/product/150x150/490000073/tata-iodised-salt-1-kg-product-images-o490000073-p490000073-0-202206021938.jpg",
+    "discount": "10",
+    "title": "Tata Iodised Salt 1 kg",
+    "brand": "TATA",
+    "price": "28.00",
+    "new_price": "25.00",
+    "id": "12"
+    },
+    {
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "16",
+    "title": "Good Life Sugar (M) 1 kg",
+    "brand": "GOOD LIFE",
+    "price": "55.00",
+    "new_price": "46.00",
+    "id": "13"
+    },
+    {
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "20",
+    "title": "Tur / Arhar Dal 2 kg",
+    "brand": "PRIVATE LABEL",
+    "price": "300.00",
+    "new_price": "240.00",
+    "id": "14"
+    },
+    {
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "19",
+    "title": "Sugar (M) 2 kg",
+    "brand": "LOOSE",
+    "price": "100.00",
+    "new_price": "81.00",
+    "id": "15"
+    },
+    {
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "16",
+    "title": "Fortune Sunlite Refined Sunflower Oil 1 L",
+    "brand": "FORTUNE",
+    "price": "199.00",
+    "new_price": "167.00",
+    "id": "16"
+    },
+    {
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "21",
+    "title": "Madhur Pure & Hygienic Sugar 5 kg",
+    "brand": "MADHUR",
+    "price": "295.00",
+    "new_price": "232.00",
+    "id": "17"
+    },
+    {
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "55",
+    "title": "Suji / Rawa 500 g",
+    "brand": "PRIVATE LABEL",
+    "price": "49.00",
+    "new_price": "22.00",
+    "id": "18"
+    },
+    {
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "14",
+    "title": "Aashirvaad Superior MP Whole Wheat Atta 10 kg",
+    "brand": "AASHIRVAAD",
+    "price": "551.00",
+    "new_price": "469.00",
+    "id": "19"
+    },
+    {
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "22",
+    "title": "Regular Value Pack Plain Cashews 500 g",
+    "brand": "PRIVATE LABEL",
+    "price": "500.00",
+    "new_price": "389.00",
+    "id": "20"
+    }
+    ],
+    "bakery": [
+    {
+    "id": "1",
+    "img": "https://www.jiomart.com/images/product/150x150/490001387/amul-butter-100-g-carton-product-images-o490001387-p490001387-0-202203170403.jpg",
+    "discount": "7",
+    "title": "Amul Butter 100 g (Carton)",
+    "brand": "AMUL",
+    "price": "54.00",
+    "new_price": "50.00"
+    },
+    {
+    "id": "2",
+    "img": "https://www.jiomart.com/images/product/150x150/490800934/go-plain-cheese-slices-476-g-pouch-product-images-o490800934-p490800934-0-202203142126.jpg",
+    "discount": "50",
+    "title": "Go Plain Cheese Slices 476 g (Pouch)",
+    "brand": "GO",
+    "price": "450.00",
+    "new_price": "225.00"
+    },
+    {
+    "id": "3",
+    "img": "https://www.jiomart.com/images/product/150x150/490001401/amul-cheese-block-200-g-carton-product-images-o490001401-p490001401-0-202204261856.jpg",
+    "discount": "11",
+    "title": "Amul Cheese Block 200 g (Carton)",
+    "brand": "AMUL",
+    "price": "127.00",
+    "new_price": "112.00"
+    },
+    {
+    "id": "4",
+    "img": "https://www.jiomart.com/images/product/150x150/491213993/parle-real-elaichi-premium-rusk-273-g-product-images-o491213993-p491213993-0-202203150326.jpg",
+    "discount": "25",
+    "title": "Parle Real Elaichi Premium Rusk 273 g",
+    "brand": "PARLE",
+    "price": "55.00",
+    "new_price": "41.00"
+    },
+    {
+    "id": "5",
+    "img": "https://www.jiomart.com/images/product/150x150/491074175/patanjali-cow-ghee-1-l-carton-product-images-o491074175-p590041390-0-202203170345.jpg",
+    "discount": "7",
+    "title": "Patanjali Cow Ghee 1 L (Carton)",
+    "brand": "PATANJALI",
+    "price": "650.00",
+    "new_price": "599.00"
+    },
+    {
+    "id": "6",
+    "img": "https://www.jiomart.com/images/product/150x150/491551428/best-farms-frozen-green-peas-500-g-product-images-o491551428-p491551428-0-202206151806.jpg",
+    "discount": "50",
+    "title": "Best Farms Frozen Green Peas 500 g",
+    "brand": "BEST FARMS",
+    "price": "160.00",
+    "new_price": "80.00"
+    },
+    {
+    "id": "7",
+    "img": "https://www.jiomart.com/images/product/150x150/491419181/parle-elaichi-rusk-400-g-product-images-o491419181-p491419181-0-202203150801.jpg",
+    "discount": "25",
+    "title": "Parle Elaichi Rusk 400 g",
+    "brand": "PARLE",
+    "price": "70.00",
+    "new_price": "52.00"
+    },
+    {
+    "id": "8",
+    "img": "https://www.jiomart.com/images/product/150x150/490001402/amul-cheese-chiplets-200-g-carton-product-images-o490001402-p490001402-0-202206101257.jpg",
+    "discount": "5",
+    "title": "Amul Cheese Chiplets 200 g (Carton)",
+    "brand": "AMUL",
+    "price": "127.00",
+    "new_price": "120.00"
+    },
+    {
+    "id": "9",
+    "img": "https://www.jiomart.com/images/product/150x150/490010199/amul-cheese-block-1-kg-carton-product-images-o490010199-p490010199-0-202211031818.jpg",
+    "discount": "6",
+    "title": "Amul Cheese Block 1 kg (Carton)",
+    "brand": "AMUL",
+    "price": "515.00",
+    "new_price": "479.00"
+    },
+    {
+    "id": "10",
+    "img": "https://www.jiomart.com/images/product/150x150/490010286/delicious-fat-spread-100-g-carton-product-images-o490010286-p490010286-0-202203150323.jpg",
+    "discount": "14",
+    "title": "Delicious Fat Spread 100 g (Carton)",
+    "brand": "AMUL",
+    "price": "23.50",
+    "new_price": "20.00"
+    },
+    {
+    "id": "11",
+    "img": "https://www.jiomart.com/images/product/150x150/490001404/amul-plain-cheese-slices-200-g-pack-product-images-o490001404-p490001404-0-202205172212.jpg",
+    "discount": "5",
+    "title": "Amul Plain Cheese Slices 200 g (Pack of 10)",
+    "brand": "AMUL",
+    "price": "136.00",
+    "new_price": "129.00"
+    },
+    {
+    "id": "12",
+    "img": "https://www.jiomart.com/images/product/150x150/490489040/gowardhan-pure-cow-ghee-1-l-jar-product-images-o490489040-p490489040-0-202203170210.jpg",
+    "discount": "7",
+    "title": "Gowardhan Pure Cow Ghee 1 L (Jar)",
+    "brand": "GOWARDHAN",
+    "price": "699.00",
+    "new_price": "650.00"
+    },
+    {
+    "id": "13",
+    "img": "https://www.jiomart.com/images/product/150x150/490001530/amulya-dairy-whitener-1-kg-pouch-product-images-o490001530-p490001530-0-202203152214.jpg",
+    "discount": "6",
+    "title": "Amulya Dairy Whitener 1 kg (Pouch)",
+    "brand": "AMULYA",
+    "price": "430.00",
+    "new_price": "404.00"
+    },
+    {
+    "id": "14",
+    "img": "https://www.jiomart.com/images/product/150x150/490001537/nestle-milkmaid-condensed-milk-380-g-tin-product-images-o490001537-p490001537-0-202211151711.jpg",
+    "discount": "10",
+    "title": "Nestle Milkmaid Condensed Milk 380 g (Tin)",
+    "brand": "NESTLE",
+    "price": "139.00",
+    "new_price": "124.00"
+    },
+    {
+    "id": "15",
+    "img": "https://www.jiomart.com/images/product/150x150/490010287/delicious-fat-spread-500-g-carton-product-images-o490010287-p490010287-0-202203150530.jpg",
+    "discount": "14",
+    "title": "Delicious Fat Spread 500 g (Carton)",
+    "brand": "AMUL",
+    "price": "114.00",
+    "new_price": "97.00"
+    },
+    {
+    "id": "16",
+    "img": "https://www.jiomart.com/images/product/150x150/491160212/britannia-toastea-premium-bake-rusk-400-g-product-images-o491160212-p491160212-0-202203170342.jpg",
+    "discount": "22",
+    "title": "Britannia Toastea Premium Bake Rusk 400 g",
+    "brand": "BRITANNIA",
+    "price": "75.00",
+    "new_price": "58.00"
+    },
+    {
+    "id": "17",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "7",
+    "title": "Gowardhan Cow Ghee 1 L (Pack of 2) Pouch With Lock & Seal Container",
+    "brand": "GOWARDHAN",
+    "price": "1,360.00",
+    "new_price": "1,264.00"
+    },
+    {
+    "id": "18",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "9",
+    "title": "Amul Kool Kesar Flavoured Milk 180 ml (Bottle)",
+    "brand": "AMUL",
+    "price": "22.00",
+    "new_price": "20.00"
+    },
+    {
+    "id": "19",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "6",
+    "title": "Amul Taaza Toned Milk 200 ml (Tetra Pak)",
+    "brand": "AMUL",
+    "price": "16.00",
+    "new_price": "15.00"
+    },
+    {
+    "id": "20",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "26",
+    "title": "Milky Mist Cow Ghee 1 L (Jar)",
+    "brand": "MILKY MIST",
+    "price": "835.00",
+    "new_price": "615.00"
+    }
+    ],
+    "beauty": [
+    {
+    "id": "1",
+    "img": "https://www.jiomart.com/images/product/360x360/949786/bella-voste-gel-shine-nail-paints-soft-kill-45-9-ml-prod-949786-0-202111121634.jpg",
+    "discount": "20",
+    "title": "Bella Voste Gel-Shine Nail Paints Soft Kill(45) 9 Ml",
+    "price": "79.00",
+    "new_price": "99.00"
+    },
+    {
+    "id": "2",
+    "img": "https://www.jiomart.com/images/product/360x360/949800/bella-voste-matt-nail-paints-royal-orchid-10-9-ml-prod-949800-0-202111121611.jpg",
+    "discount": "20",
+    "title": "Bella Voste Matt Nail Paints Royal Orchid(10) 9 Ml",
+    "price": "79.00",
+    "new_price": "99.00"
+    },
+    {
+    "id": "3",
+    "img": "https://www.jiomart.com/images/product/360x360/1003000/bella-voste-sand-holo-nail-paints-chartreuse-406-10-ml-prod-1003000-0-202206081612.jpg",
+    "discount": "20",
+    "title": "Bella Voste Sand Holo Nail Paints Chartreuse - 406 10 ml",
+    "price": "119.00",
+    "new_price": "149.00"
+    },
+    {
+    "id": "4",
+    "img": "https://www.jiomart.com/images/product/360x360/1002046/stars-lip-rouge-palette-48-gm-prod-1002046-0-202209260208.jpg",
+    "discount": "4",
+    "title": "Stars Lip Rouge Palette 48 gm",
+    "price": "1473.00",
+    "new_price": "1550.00"
+    },
+    {
+    "id": "5",
+    "img": "https://www.jiomart.com/images/product/360x360/1002043/stars-cr-no-04-ruby-pink-3-5-gm-prod-1002043-0-202209260204.jpg",
+    "discount": "4",
+    "title": "Stars Cr.No.04 Ruby Pink 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "6",
+    "img": "https://www.jiomart.com/images/product/360x360/1002040/stars-cr-no-01-smoked-rose-3-5-gm-prod-1002040-0-202209252237.jpg",
+    "discount": "4",
+    "title": "Stars Cr.No.01 Smoked Rose 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "7",
+    "img": "https://www.jiomart.com/images/product/360x360/1002045/stars-cr-no-06-tender-brown-3-5-gm-prod-1002045-0-202209252212.jpg",
+    "discount": "4",
+    "title": "Stars Cr.No.06 Tender Brown 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "8",
+    "img": "https://www.jiomart.com/images/product/360x360/1002042/stars-cr-no-03-hypnotic-3-5-gm-prod-1002042-0-202209252155.jpg",
+    "discount": "4",
+    "title": "Stars Cr.No.03 Hypnotic 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "9",
+    "img": "https://www.jiomart.com/images/product/360x360/1002039/stars-me-no-05-sparkle-garnet-3-5-gm-prod-1002039-0-202209252106.jpg",
+    "discount": "4",
+    "title": "Stars Me.No.05 Sparkle Garnet 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "10",
+    "img": "https://www.jiomart.com/images/product/360x360/1002044/stars-cr-no-05-baby-blush-3-5-gm-prod-1002044-0-202209252021.jpg",
+    "discount": "4",
+    "title": "Stars Cr.No.05 Baby Blush 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "11",
+    "img": "https://www.jiomart.com/images/product/360x360/1002038/stars-me-no-04-dazzling-mauve-3-5-gm-prod-1002038-0-202209252013.jpg",
+    "discount": "4",
+    "title": "Stars Me.No.04 Dazzling Mauve 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "12",
+    "img": "https://www.jiomart.com/images/product/360x360/1002041/stars-cr-no-02-cinnamon-3-5-gm-prod-1002041-0-202209252003.jpg",
+    "discount": "4",
+    "title": "Stars Cr.No.02 Cinnamon 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "13",
+    "img": "https://www.jiomart.com/images/product/360x360/997226/stars-concealer-medium-5-gm-prod-997226-0-202209251910.jpg",
+    "discount": "5",
+    "title": "Stars Concealer Medium 5 gm",
+    "price": "285.00",
+    "new_price": "300.00"
+    },
+    {
+    "id": "14",
+    "img": "https://www.jiomart.com/images/product/360x360/997192/stars-no-03-pearl-12-gm-prod-997192-0-202209251820.jpg",
+    "discount": "5",
+    "title": "Stars No.03 Pearl 12 gm",
+    "price": "760.00",
+    "new_price": "800.00"
+    },
+    {
+    "id": "15",
+    "img": "https://www.jiomart.com/images/product/360x360/1002037/stars-me-no-03-honey-glaze-3-5-gm-prod-1002037-0-202209251802.jpg",
+    "discount": "4",
+    "title": "Stars Me.No.03 Honey Glaze 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "16",
+    "img": "https://www.jiomart.com/images/product/360x360/997196/stars-no-07-blushed-clay-12-gm-prod-997196-0-202209251759.jpg",
+    "discount": "5",
+    "title": "Stars No.07 Blushed Clay 12 gm",
+    "price": "760.00",
+    "new_price": "800.00"
+    },
+    {
+    "id": "17",
+    "img": "https://www.jiomart.com/images/product/360x360/997225/stars-concealer-light-5-gm-prod-997225-0-202209251726.jpg",
+    "discount": "5",
+    "title": "Stars Concealer Light 5 gm",
+    "price": "285.00",
+    "new_price": "300.00"
+    },
+    {
+    "id": "18",
+    "img": "https://www.jiomart.com/images/product/360x360/997191/stars-no-02-perfect-gold-12-gm-prod-997191-0-202209251638.jpg",
+    "discount": "5",
+    "title": "Stars No.02 Perfect Gold 12 gm",
+    "price": "760.00",
+    "new_price": "800.00"
+    },
+    {
+    "id": "19",
+    "img": "https://www.jiomart.com/images/product/360x360/997195/stars-no-06-very-brick-12-gm-prod-997195-0-202209251632.jpg",
+    "discount": "5",
+    "title": "Stars No.06 Very Brick 12 gm",
+    "price": "760.00",
+    "new_price": "800.00"
+    },
+    {
+    "id": "20",
+    "img": "https://www.jiomart.com/images/product/360x360/997200/stars-no-02-fine-tip-1-ml-prod-997200-0-202209251554.jpg",
+    "discount": "4",
+    "title": "Stars No.02 Fine Tip 1 ml",
+    "price": "713.00",
+    "new_price": "750.00"
+    },
+    {
+    "id": "21",
+    "img": "https://www.jiomart.com/images/product/360x360/997190/stars-no-01-soft-gold-12-gm-prod-997190-0-202209251526.jpg",
+    "discount": "5",
+    "title": "Stars No.01 Soft Gold 12 gm",
+    "price": "760.00",
+    "new_price": "800.00"
+    },
+    {
+    "id": "22",
+    "img": "https://www.jiomart.com/images/product/360x360/997194/stars-no-05-gulf-blue-12-gm-prod-997194-0-202209251501.jpg",
+    "discount": "5",
+    "title": "Stars No.05 Gulf Blue 12 gm",
+    "price": "760.00",
+    "new_price": "800.00"
+    },
+    {
+    "id": "23",
+    "img": "https://www.jiomart.com/images/product/360x360/997227/stars-concealer-dark-5-gm-prod-997227-0-202209251440.jpg",
+    "discount": "5",
+    "title": "Stars Concealer Dark 5 gm",
+    "price": "285.00",
+    "new_price": "300.00"
+    },
+    {
+    "id": "24",
+    "img": "https://www.jiomart.com/images/product/360x360/997199/stars-no-01-paddle-tip-1-ml-prod-997199-0-202209251411.jpg",
+    "discount": "4",
+    "title": "Stars No.01 Paddle Tip 1 ml",
+    "price": "713.00",
+    "new_price": "750.00"
+    },
+    {
+    "id": "25",
+    "img": "https://www.jiomart.com/images/product/360x360/997193/stars-no-04-black-cherry-12-gm-prod-997193-0-202209251336.jpg",
+    "discount": "5",
+    "title": "Stars No.04 Black Cherry 12 gm",
+    "price": "760.00",
+    "new_price": "800.00"
+    },
+    {
+    "id": "26",
+    "img": "https://www.jiomart.com/images/product/360x360/997156/stars-photo-fix-almond-12-gm-prod-997156-0-202209251014.jpg",
+    "discount": "5",
+    "title": "Stars Photo Fix - Almond 12 gm",
+    "price": "1235.00",
+    "new_price": "1300.00"
+    },
+    {
+    "id": "27",
+    "img": "https://www.jiomart.com/images/product/360x360/997189/stars-bronze-15-gm-prod-997189-0-202209250921.jpg",
+    "discount": "4",
+    "title": "Stars Bronze 15 gm",
+    "price": "238.00",
+    "new_price": "250.00"
+    },
+    {
+    "id": "28",
+    "img": "https://www.jiomart.com/images/product/360x360/997155/stars-photo-fix-tan-12-gm-prod-997155-0-202209250848.jpg",
+    "discount": "5",
+    "title": "Stars Photo Fix - Tan 12 gm",
+    "price": "1235.00",
+    "new_price": "1300.00"
+    },
+    {
+    "id": "29",
+    "img": "https://www.jiomart.com/images/product/360x360/997152/stars-photo-fix-apricot-12-gm-prod-997152-0-202209250813.jpg",
+    "discount": "5",
+    "title": "Stars Photo Fix - Apricot 12 gm",
+    "price": "1235.00",
+    "new_price": "1300.00"
+    },
+    {
+    "id": "30",
+    "img": "https://www.jiomart.com/images/product/360x360/997188/stars-gold-15-gm-prod-997188-0-202209250757.jpg",
+    "discount": "4",
+    "title": "Stars Gold 15 gm",
+    "price": "238.00",
+    "new_price": "250.00"
+    },
+    {
+    "id": "31",
+    "img": "https://www.jiomart.com/images/product/360x360/997154/stars-photo-fix-crimson-12-gm-prod-997154-0-202209250730.jpg",
+    "discount": "5",
+    "title": "Stars Photo Fix - Crimson 12 gm",
+    "price": "1235.00",
+    "new_price": "1300.00"
+    },
+    {
+    "id": "32",
+    "img": "https://www.jiomart.com/images/product/360x360/997151/stars-reflect-illuminators-copper-40-gm-prod-997151-0-202209250645.jpg",
+    "discount": "5",
+    "title": "Stars Reflect Illuminators - Copper 40 gm",
+    "price": "855.00",
+    "new_price": "900.00"
+    },
+    {
+    "id": "33",
+    "img": "https://www.jiomart.com/images/product/360x360/997163/stars-beach-gold-10-gm-prod-997163-0-202209250638.jpg",
+    "discount": "5",
+    "title": "Stars Beach Gold 10 gm",
+    "price": "570.00",
+    "new_price": "600.00"
+    },
+    {
+    "id": "34",
+    "img": "https://www.jiomart.com/images/product/360x360/997153/stars-photo-fix-vanilla-12-gm-prod-997153-0-202209250613.jpg",
+    "discount": "5",
+    "title": "Stars Photo Fix - Vanilla 12 gm",
+    "price": "1235.00",
+    "new_price": "1300.00"
+    },
+    {
+    "id": "35",
+    "img": "https://www.jiomart.com/images/product/360x360/997150/stars-reflect-illuminators-soft-brone-40-gm-prod-997150-0-202209250503.jpg",
+    "discount": "5",
+    "title": "Stars Reflect Illuminators - Soft Brone 40 gm",
+    "price": "855.00",
+    "new_price": "900.00"
+    },
+    {
+    "id": "36",
+    "img": "https://www.jiomart.com/images/product/360x360/997133/stars-elastofix-crimson-12-gm-prod-997133-0-202209250448.jpg",
+    "discount": "5",
+    "title": "Stars Elastofix - Crimson 12 gm",
+    "price": "1425.00",
+    "new_price": "1500.00"
+    },
+    {
+    "id": "37",
+    "img": "https://www.jiomart.com/images/product/360x360/997129/stars-colour-pallate-48-gm-prod-997129-0-202209250437.jpg",
+    "discount": "4",
+    "title": "Stars Colour Pallate 48 gm",
+    "price": "1663.00",
+    "new_price": "1750.00"
+    },
+    {
+    "id": "38",
+    "img": "https://www.jiomart.com/images/product/360x360/997136/stars-cream-eyeshade-palette-36-gm-prod-997136-0-202209250332.jpg",
+    "discount": "5",
+    "title": "Stars Cream Eyeshade Palette 36 gm",
+    "price": "1140.00",
+    "new_price": "1200.00"
+    },
+    {
+    "id": "39",
+    "img": "https://www.jiomart.com/images/product/360x360/997132/stars-elastofix-vanilla-12-gm-prod-997132-0-202209250325.jpg",
+    "discount": "5",
+    "title": "Stars Elastofix - Vanilla 12 gm",
+    "price": "1425.00",
+    "new_price": "1500.00"
+    },
+    {
+    "id": "40",
+    "img": "https://www.jiomart.com/images/product/360x360/997128/stars-foundation-palette-refills-ivory-4-gm-prod-997128-0-202209250259.jpg",
+    "discount": "5",
+    "title": "Stars Foundation Palette Refills - Ivory 4 gm",
+    "price": "190.00",
+    "new_price": "200.00"
+    },
+    {
+    "id": "41",
+    "img": "https://www.jiomart.com/images/product/360x360/997130/stars-derma-series-colour-pallate-24-gm-prod-997130-0-202209250252.jpg",
+    "discount": "5",
+    "title": "Stars Derma Series Colour Pallate 24 gm",
+    "price": "855.00",
+    "new_price": "900.00"
+    },
+    {
+    "id": "42",
+    "img": "https://www.jiomart.com/images/product/360x360/997125/stars-foundation-palette-refills-303-4-gm-prod-997125-0-202209250227.jpg",
+    "discount": "5",
+    "title": "Stars Foundation Palette Refills - 303 4 gm",
+    "price": "190.00",
+    "new_price": "200.00"
+    },
+    {
+    "id": "43",
+    "img": "https://www.jiomart.com/images/product/360x360/997131/stars-elastofix-apricot-12-gm-prod-997131-0-202209250209.jpg",
+    "discount": "5",
+    "title": "Stars Elastofix - Apricot 12 gm",
+    "price": "1425.00",
+    "new_price": "1500.00"
+    },
+    {
+    "id": "44",
+    "img": "https://www.jiomart.com/images/product/360x360/997124/stars-foundation-palette-refills-ng-4-gm-prod-997124-0-202209250121.jpg",
+    "discount": "5",
+    "title": "Stars Foundation Palette Refills - Ng 4 gm",
+    "price": "190.00",
+    "new_price": "200.00"
+    },
+    {
+    "id": "45",
+    "img": "https://www.jiomart.com/images/product/360x360/997127/stars-foundation-palette-refills-chinese-4-gm-prod-997127-0-202209250118.jpg",
+    "discount": "5",
+    "title": "Stars Foundation Palette Refills - Chinese 4 gm",
+    "price": "190.00",
+    "new_price": "200.00"
+    },
+    {
+    "id": "46",
+    "img": "https://www.jiomart.com/images/product/360x360/1002036/stars-me-no-02-shimmer-pink-3-5-gm-prod-1002036-0-202209231844.jpg",
+    "discount": "4",
+    "title": "Stars Me.No.02 Shimmer Pink 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "47",
+    "img": "https://www.jiomart.com/images/product/360x360/1002035/stars-me-no-01-iced-candy-3-5-gm-prod-1002035-0-202209231840.jpg",
+    "discount": "4",
+    "title": "Stars Me.No.01 Iced Candy 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "48",
+    "img": "https://www.jiomart.com/images/product/360x360/1002034/stars-sm-no-10-tender-brown-3-5-gm-prod-1002034-0-202209231836.jpg",
+    "discount": "4",
+    "title": "Stars Sm. No.10 Tender Brown 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "49",
+    "img": "https://www.jiomart.com/images/product/360x360/1002033/stars-sm-no-09-scarlet-3-5-gm-prod-1002033-0-202209231832.jpg",
+    "discount": "4",
+    "title": "Stars Sm. No.09 Scarlet 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "50",
+    "img": "https://www.jiomart.com/images/product/360x360/1002032/stars-sm-no-08-maroon-rebel-3-5-gm-prod-1002032-0-202209231828.jpg",
+    "discount": "4",
+    "title": "Stars Sm. No.08 Maroon Rebel 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "51",
+    "img": "https://www.jiomart.com/images/product/360x360/1002031/stars-sm-no-07-hypnotic-3-5-gm-prod-1002031-0-202209231824.jpg",
+    "discount": "4",
+    "title": "Stars Sm. No.07 Hypnotic 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "52",
+    "img": "https://www.jiomart.com/images/product/360x360/1002030/stars-sm-no-06-burgandy-brown-3-5-gm-prod-1002030-0-202209231819.jpg",
+    "discount": "4",
+    "title": "Stars Sm. No.06 Burgandy Brown 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "53",
+    "img": "https://www.jiomart.com/images/product/360x360/1002029/stars-sm-no-05-burnt-rose-3-5-gm-prod-1002029-0-202209231813.jpg",
+    "discount": "4",
+    "title": "Stars Sm. No.05 Burnt Rose 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "54",
+    "img": "https://www.jiomart.com/images/product/360x360/1002028/stars-sm-no-04-honey-cup-3-5-gm-prod-1002028-0-202209231808.jpg",
+    "discount": "4",
+    "title": "Stars Sm. No.04 Honey Cup 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "55",
+    "img": "https://www.jiomart.com/images/product/360x360/1002027/stars-sm-no-03-raspberry-pop-3-5-gm-prod-1002027-0-202209231804.jpg",
+    "discount": "4",
+    "title": "Stars Sm. No.03 Raspberry Pop 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "56",
+    "img": "https://www.jiomart.com/images/product/360x360/1002026/stars-sm-no-02-mystic-magenta-3-5-gm-prod-1002026-0-202209231801.jpg",
+    "discount": "4",
+    "title": "Stars Sm. No.02 Mystic Magenta 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "57",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "4",
+    "title": "Stars Sm. No.01 Smoked Rose 3.5 gm",
+    "price": "523.00",
+    "new_price": "550.00"
+    },
+    {
+    "id": "58",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "5",
+    "title": "Stars Translucent Powder - Yellow Gold 20 gm.",
+    "price": "380.00",
+    "new_price": "400.00"
+    },
+    {
+    "id": "59",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "5",
+    "title": "Stars Translucent Powder - Yellow Pearl 20 gm.",
+    "price": "380.00",
+    "new_price": "400.00"
+    },
+    {
+    "id": "60",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "5",
+    "title": "Stars Translucent Powder - Yellow Matt 20 gm.",
+    "price": "380.00",
+    "new_price": "400.00"
+    }
+    ],
+    "home_care": [
+    {
+    "id": "1",
+    "img": "https://www.jiomart.com/images/product/150x150/492367966/surf-excel-easy-wash-detergent-powder-5-kg-product-images-o492367966-p590837659-0-202208111657.jpg",
+    "dis_off": "OFF",
+    "discount": "21",
+    "percent": "%",
+    "title": "Surf Excel Easy Wash Detergent Powder 5 kg",
+    "price": "605.00",
+    "uom": "(? 121.00/1 kg)",
+    "new_price": "770.00"
+    },
+    {
+    "id": "2",
+    "img": "https://www.jiomart.com/images/product/150x150/491252834/tide-lemon-mint-detergent-powder-5-kg-product-images-o491252834-p590860214-0-202208241712.jpg",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Tide Lemon & Mint Detergent Powder 5 kg",
+    "price": "659.00",
+    "uom": "(? 109.83/1 kg)",
+    "new_price": "709.00"
+    },
+    {
+    "id": "3",
+    "img": "https://www.jiomart.com/images/product/150x150/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-0-202203151949.jpg",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Tide Jasmine & Rose Detergent Powder 5 kg (Get Extra 1 kg Free)",
+    "price": "659.00",
+    "uom": "(? 109.83/1 kg)",
+    "new_price": "709.00"
+    },
+    {
+    "id": "4",
+    "img": "https://www.jiomart.com/images/product/150x150/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-0-202203151011.jpg",
+    "dis_off": "OFF",
+    "discount": "11",
+    "percent": "%",
+    "title": "Ariel Matic Top Load Detergent Powder 4 kg (Get Extra 2 kg Free)",
+    "price": "1180.00",
+    "uom": "(? 196.67/1 kg)",
+    "new_price": "1330.00"
+    },
+    {
+    "id": "5",
+    "img": "https://www.jiomart.com/images/product/150x150/491335764/ariel-matic-front-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335764-p491335764-0-202203150714.jpg",
+    "dis_off": "OFF",
+    "discount": "17",
+    "percent": "%",
+    "title": "Ariel Matic Front Load Detergent Powder 4 kg (Get Extra 2 kg Free)",
+    "price": "1220.00",
+    "uom": "(? 203.33/1 kg)",
+    "new_price": "1475.00"
+    },
+    {
+    "id": "6",
+    "img": "https://www.jiomart.com/images/product/150x150/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-0-202204291101.jpg",
+    "dis_off": "OFF",
+    "discount": "17",
+    "percent": "%",
+    "title": "Surf Excel Matic Top Load Detergent Powder 6 kg",
+    "price": "1090.00",
+    "uom": "(? 181.67/1 kg)",
+    "new_price": "1325.00"
+    },
+    {
+    "id": "7",
+    "img": "https://www.jiomart.com/images/product/150x150/490346029/vim-lemon-dishwash-bar-200-g-pack-of-3-product-images-o490346029-p490346029-0-202203152252.jpg",
+    "dis_off": "OFF",
+    "discount": "12",
+    "percent": "%",
+    "title": "Vim Lemon Dishwash Bar 200 g (Pack of 3)",
+    "price": "57.00",
+    "uom": "",
+    "new_price": "65.00"
+    },
+    {
+    "id": "8",
+    "img": "https://www.jiomart.com/images/product/150x150/490002364/vim-lemon-dishwash-bar-130-g-product-images-o490002364-p490002364-0-202208021620.jpg",
+    "dis_off": "OFF",
+    "discount": "10",
+    "percent": "%",
+    "title": "Vim Lemon Dishwash Bar 130 g",
+    "price": "9.00",
+    "uom": "",
+    "new_price": "10.00"
+    },
+    {
+    "id": "9",
+    "img": "https://www.jiomart.com/images/product/150x150/491436153/surf-excel-matic-top-load-liquid-detergent-2-l-product-images-o491436153-p491436153-0-202203170632.jpg",
+    "dis_off": "OFF",
+    "discount": "25",
+    "percent": "%",
+    "title": "Surf Excel Matic Top Load Liquid Detergent 2 L",
+    "price": "322.00",
+    "uom": "(? 161.00/1 l)",
+    "new_price": "430.00"
+    },
+    {
+    "id": "10",
+    "img": "https://www.jiomart.com/images/product/150x150/490003796/surf-excel-easy-wash-detergent-powder-1-5-kg-product-images-o490003796-p490003796-0-202203151739.jpg",
+    "dis_off": "OFF",
+    "discount": "21",
+    "percent": "%",
+    "title": "Surf Excel Easy Wash Detergent Powder 1.5 kg",
+    "price": "185.00",
+    "uom": "(? 123.33/1 kg)",
+    "new_price": "235.00"
+    },
+    {
+    "id": "11",
+    "img": "https://www.jiomart.com/images/product/150x150/490003794/rin-detergent-bar-140-g-product-images-o490003794-p490003794-0-202205172236.jpg",
+    "dis_off": "OFF",
+    "discount": "10",
+    "percent": "%",
+    "title": "Rin Detergent Bar 130 g",
+    "price": "9.00",
+    "uom": "",
+    "new_price": "10.00"
+    },
+    {
+    "id": "12",
+    "img": "https://www.jiomart.com/images/product/150x150/491436154/surf-excel-matic-front-load-liquid-detergent-2-l-product-images-o491436154-p491436154-0-202203170630.jpg",
+    "dis_off": "OFF",
+    "discount": "14",
+    "percent": "%",
+    "title": "Surf Excel Matic Front Load Liquid Detergent 2 L",
+    "price": "391.00",
+    "uom": "(? 195.50/1 l)",
+    "new_price": "455.00"
+    },
+    {
+    "id": "13",
+    "img": "https://www.jiomart.com/images/product/150x150/492334600/rin-detergent-bar-250-g-pack-of-6-product-images-o492334600-p590306817-0-202203170740.jpg",
+    "dis_off": "OFF",
+    "discount": "11",
+    "percent": "%",
+    "title": "Rin Detergent Bar 250 g (Pack of 6)",
+    "price": "136.00",
+    "uom": "",
+    "new_price": "154.00"
+    },
+    {
+    "id": "14",
+    "img": "https://www.jiomart.com/images/product/150x150/491961089/rin-detergent-powder-5-kg-product-images-o491961089-p590140436-0-202206221041.jpg",
+    "dis_off": "OFF",
+    "discount": "9",
+    "percent": "%",
+    "title": "Rin Detergent Powder 5 kg",
+    "price": "511.00",
+    "uom": "(? 102.20/1 kg)",
+    "new_price": "565.00"
+    },
+    {
+    "id": "15",
+    "img": "https://www.jiomart.com/images/product/150x150/490896732/vim-lemon-dishwash-liquid-750-ml-product-images-o490896732-p490896732-0-202203170912.jpg",
+    "dis_off": "OFF",
+    "discount": "20",
+    "percent": "%",
+    "title": "Vim Lemon Dishwash Liquid 750 ml",
+    "price": "158.00",
+    "uom": "(? 21.07/100 ml)",
+    "new_price": "199.00"
+    },
+    {
+    "id": "16",
+    "img": "https://www.jiomart.com/images/product/150x150/490415502/comfort-after-wash-morning-fresh-fabric-conditioner-860-ml-product-images-o490415502-p490415502-0-202203150550.jpg",
+    "dis_off": "OFF",
+    "discount": "10",
+    "percent": "%",
+    "title": "Comfort After Wash Morning Fresh Fabric Conditioner 860 ml",
+    "price": "211.00",
+    "uom": "(? 24.53/100 ml)",
+    "new_price": "235.00"
+    },
+    {
+    "id": "17",
+    "img": "https://www.jiomart.com/images/product/150x150/490003766/rin-ala-fabric-whitener-500-ml-product-images-o490003766-p490003766-0-202209081628.jpg",
+    "dis_off": "OFF",
+    "discount": "15",
+    "percent": "%",
+    "title": "Rin Ala Fabric Whitener 500 ml",
+    "price": "75.00",
+    "uom": "(? 15.00/100 ml)",
+    "new_price": "89.00"
+    },
+    {
+    "id": "18",
+    "img": "https://www.jiomart.com/images/product/150x150/490003785/surf-excel-detergent-bar-84-g-product-images-o490003785-p490003785-0-202207081902.jpg",
+    "dis_off": "",
+    "discount": "",
+    "percent": "",
+    "title": "Surf Excel Detergent Bar 84 g",
+    "price": "15.00",
+    "uom": "",
+    "new_price": "13.00"
+    },
+    {
+    "id": "19",
+    "img": "https://www.jiomart.com/images/product/150x150/490002757/harpic-power-plus-original-disinfectant-toilet-cleaner-500-ml-product-images-o490002757-p490002757-0-202209201826.jpg",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Harpic Power Plus Original Disinfectant Toilet Cleaner 500 ml",
+    "price": "86.00",
+    "uom": "",
+    "new_price": "93.00"
+    },
+    {
+    "id": "20",
+    "img": "https://www.jiomart.com/images/product/150x150/491349596/harpic-power-plus-original-disinfectant-toilet-cleaner-1-l-buy-2-get-1-500-ml-free-product-images-o491349596-p590032261-0-202209221758.jpg",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Harpic Power Plus Original Disinfectant Toilet Cleaner 1 L (Buy 2 Get 1 500 ml Free)",
+    "price": "369.00",
+    "uom": "",
+    "new_price": "399.00"
+    },
+    {
+    "id": "21",
+    "img": "https://www.jiomart.com/images/product/150x150/491278427/surf-excel-easy-wash-detergent-powder-1-kg-product-images-o491278427-p491278427-0-202210071633.jpg",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Surf Excel Easy Wash Detergent Powder 1 kg",
+    "price": "139.00",
+    "uom": "",
+    "new_price": "150.00"
+    },
+    {
+    "id": "22",
+    "img": "https://www.jiomart.com/images/product/150x150/490972169/rin-detergent-bar-250-g-pack-of-4-product-images-o490972169-p490972169-0-202203150400.jpg",
+    "dis_off": "OFF",
+    "discount": "8",
+    "percent": "%",
+    "title": "Rin Detergent Bar 250 g (Pack of 4)",
+    "price": "95.00",
+    "uom": "",
+    "new_price": "104.00"
+    },
+    {
+    "id": "23",
+    "img": "https://www.jiomart.com/images/product/150x150/490002367/vim-lemon-concentrated-dishwash-gel-140-ml-product-images-o490002367-p490002367-0-202205251634.jpg",
+    "dis_off": "OFF",
+    "discount": "10",
+    "percent": "%",
+    "title": "Vim Lemon Concentrated Dishwash Gel 140 ml",
+    "price": "18.00",
+    "uom": "(? 12.86/100 ml)",
+    "new_price": "20.00"
+    },
+    {
+    "id": "24",
+    "img": "https://www.jiomart.com/images/product/150x150/490003810/surf-excel-detergent-bar-250-g-product-images-o490003810-p490003810-0-202209201825.jpg",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Surf Excel Detergent Bar 250 g",
+    "price": "35.00",
+    "uom": "",
+    "new_price": "38.00"
+    },
+    {
+    "id": "25",
+    "img": "https://www.jiomart.com/images/product/150x150/491184254/patanjali-lemon-wood-ash-super-dishwash-bar-160-g-product-images-o491184254-p491184254-0-202203150624.jpg",
+    "dis_off": "OFF",
+    "discount": "10",
+    "percent": "%",
+    "title": "Patanjali Lemon & Wood Ash Super Dishwash Bar 160 g",
+    "price": "9.00",
+    "uom": "",
+    "new_price": "10.00"
+    },
+    {
+    "id": "26",
+    "img": "https://www.jiomart.com/images/product/150x150/490871565/domex-original-disinfectant-expert-toilet-cleaner-1-l-product-images-o490871565-p490871565-0-202203141913.jpg",
+    "dis_off": "OFF",
+    "discount": "13",
+    "percent": "%",
+    "title": "Domex Original Disinfectant Toilet Expert 1 L",
+    "price": "185.00",
+    "uom": "",
+    "new_price": "215.00"
+    },
+    {
+    "id": "27",
+    "img": "https://www.jiomart.com/images/product/150x150/491418286/exo-touch-shine-anti-bacterial-dishwash-bar-700-g-pack-of-2-free-scrubber-product-images-o491418286-p491418286-0-202203150157.jpg",
+    "dis_off": "OFF",
+    "discount": "19",
+    "percent": "%",
+    "title": "Exo Touch & Shine Anti-Bacterial Dishwash Bar 700 g (Pack of 2) (Free scrubber)",
+    "price": "139.00",
+    "uom": "",
+    "new_price": "172.00"
+    },
+    {
+    "id": "28",
+    "img": "https://www.jiomart.com/images/product/150x150/492519279/vim-lemon-dishwash-liquid-2-l-product-images-o492519279-p590841719-0-202204281451.jpg",
+    "dis_off": "OFF",
+    "discount": "22",
+    "percent": "%",
+    "title": "Vim Lemon Dishwash Liquid 2 L",
+    "price": "345.00",
+    "uom": "(? 172.50/1 l)",
+    "new_price": "445.00"
+    },
+    {
+    "id": "29",
+    "img": "https://www.jiomart.com/images/product/150x150/491167952/exo-touch-shine-anti-bacterial-round-dishwash-bar-700-g-product-images-o491167952-p491167952-0-202209081628.jpg",
+    "dis_off": "OFF",
+    "discount": "15",
+    "percent": "%",
+    "title": "Exo Touch & Shine Anti-Bacterial Round Dishwash Bar 700 g",
+    "price": "73.00",
+    "uom": "",
+    "new_price": "86.00"
+    },
+    {
+    "id": "30",
+    "img": "https://www.jiomart.com/images/product/150x150/490215668/vim-lemon-dishwash-bar-300-g-product-images-o490215668-p490215668-0-202206221058.jpg",
+    "dis_off": "OFF",
+    "discount": "10",
+    "percent": "%",
+    "title": "Vim Lemon Dishwash Bar 300 g",
+    "price": "27.00",
+    "uom": "",
+    "new_price": "30.00"
+    },
+    {
+    "id": "31",
+    "img": "https://www.jiomart.com/images/product/150x150/490930507/harpic-power-plus-original-disinfectant-toilet-cleaner-1-l-product-images-o490930507-p490930507-0-202209211845.jpg",
+    "dis_off": "OFF",
+    "discount": "10",
+    "percent": "%",
+    "title": "Harpic Power Plus Original Disinfectant Toilet Cleaner 1 L",
+    "price": "175.00",
+    "uom": "",
+    "new_price": "195.00"
+    },
+    {
+    "id": "32",
+    "img": "https://www.jiomart.com/images/product/150x150/490015988/surf-excel-easy-wash-detergent-powder-500-g-product-images-o490015988-p490015988-0-202210071633.jpg",
+    "dis_off": "OFF",
+    "discount": "8",
+    "percent": "%",
+    "title": "Surf Excel Easy Wash Detergent Powder 500 g",
+    "price": "69.00",
+    "uom": "",
+    "new_price": "75.00"
+    },
+    {
+    "id": "33",
+    "img": "https://www.jiomart.com/images/product/150x150/492334922/ariel-matic-top-load-liquid-detergent-refill-pouch-2-l-product-images-o492334922-p590860217-0-202203170645.jpg",
+    "dis_off": "OFF",
+    "discount": "26",
+    "percent": "%",
+    "title": "Ariel Matic Top Load Liquid Detergent Refill Pouch 2 L",
+    "price": "340.00",
+    "uom": "(? 170.00/1 l)",
+    "new_price": "465.00"
+    },
+    {
+    "id": "34",
+    "img": "https://www.jiomart.com/images/product/150x150/490003789/rin-detergent-powder-1-kg-product-images-o490003789-p490003789-0-202208251728.jpg",
+    "dis_off": "OFF",
+    "discount": "10",
+    "percent": "%",
+    "title": "Rin Detergent Powder 1 kg",
+    "price": "92.00",
+    "uom": "",
+    "new_price": "103.00"
+    },
+    {
+    "id": "35",
+    "img": "https://www.jiomart.com/images/product/150x150/490002740/lizol-citrus-disinfectant-surface-cleaner-500-ml-product-images-o490002740-p490002740-0-202209121733.jpg",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Lizol Citrus Disinfectant Surface Cleaner 500 ml",
+    "price": "95.00",
+    "uom": "",
+    "new_price": "103.00"
+    },
+    {
+    "id": "36",
+    "img": "https://www.jiomart.com/images/product/150x150/491436152/comfort-after-wash-morning-fresh-fabric-conditioner-2-l-product-images-o491436152-p491436152-0-202208111657.jpg",
+    "dis_off": "OFF",
+    "discount": "12",
+    "percent": "%",
+    "title": "Comfort After Wash Morning Fresh Fabric Conditioner 2 L",
+    "price": "420.00",
+    "uom": "(? 210.00/1 l)",
+    "new_price": "480.00"
+    },
+    {
+    "id": "37",
+    "img": "https://www.jiomart.com/images/product/150x150/492848164/surf-excel-matic-front-load-detergent-powder-6-kg-product-images-o492848164-p591223797-0-202204291101.jpg",
+    "dis_off": "OFF",
+    "discount": "18",
+    "percent": "%",
+    "title": "Surf Excel Matic Front Load Detergent Powder 6 kg",
+    "price": "1200.00",
+    "uom": "(? 200.00/1 kg)",
+    "new_price": "1475.00"
+    },
+    {
+    "id": "38",
+    "img": "https://www.jiomart.com/images/product/150x150/rvgo4w6ode/finish-mega-dishwasher-tablets-110-s-classic-product-images-orvgo4w6ode-p591300728-0-202209171530.jpg",
+    "dis_off": "OFF",
+    "discount": "75",
+    "percent": "%",
+    "title": "Finish Mega Dishwasher Tablets 110's Classic",
+    "price": "995.00",
+    "uom": "",
+    "new_price": "3999.00"
+    },
+    {
+    "id": "39",
+    "img": "https://www.jiomart.com/images/product/150x150/rvhmda5jhy/mexonic-washing-machine-deep-cleaner-tablet-for-washing-machines-front-and-top-load-machine-descaling-powder-tablet-for-tub-cleaning-drum-stain-remover-of-washing-machine-descaler-powder-product-images-orvhmda5jhy-p592137848-0-202206211714.jpg",
+    "dis_off": "OFF",
+    "discount": "75",
+    "percent": "%",
+    "title": "Mexonic Washing Machine Deep Cleaner Tablet for Washing machines Front and Top Load Machine Descaling Powder Tablet for Tub Cleaning&Drum Stain Remover of washing machine Descaler Powder",
+    "price": "169.00",
+    "uom": "",
+    "new_price": "699.00"
+    },
+    {
+    "id": "40",
+    "img": "https://www.jiomart.com/images/product/150x150/rvrmta6oci/harpic-bleach-white-shine-original-750ml-product-images-orvrmta6oci-p591882690-0-202206030842.jpg",
+    "dis_off": "OFF",
+    "discount": "20",
+    "percent": "%",
+    "title": "Harpic Bleach White & Shine Original 750ml",
+    "price": "395.00",
+    "uom": "",
+    "new_price": "499.00"
+    },
+    {
+    "id": "41",
+    "img": "https://www.jiomart.com/images/product/150x150/491097788/sanifresh-ultra-shine-toilet-cleaner-500-ml-buy-2-get-1-free-product-images-o491097788-p491097788-0-202203150434.jpg",
+    "dis_off": "OFF",
+    "discount": "8",
+    "percent": "%",
+    "title": "Sanifresh Ultra Shine Toilet Cleaner 500 ml (Buy 2 Get 1 Free)",
+    "price": "171.00",
+    "uom": "",
+    "new_price": "186.00"
+    },
+    {
+    "id": "42",
+    "img": "https://www.jiomart.com/images/product/150x150/492334923/ariel-matic-front-load-liquid-detergent-pouch-pack-2-l-product-images-o492334923-p590514115-0-202203151738.jpg",
+    "dis_off": "OFF",
+    "discount": "18",
+    "percent": "%",
+    "title": "Ariel Matic Front Load Liquid Detergent Pouch Pack 2 L",
+    "price": "395.00",
+    "uom": "(? 197.50/1 l)",
+    "new_price": "485.00"
+    },
+    {
+    "id": "43",
+    "img": "https://www.jiomart.com/images/product/150x150/492848018/my-home-scrubz-lemon-fighters-concentrate-dishwash-liquid-750-ml-buy-1-get-1-free-product-images-o492848018-p591225982-0-202205180116.jpg",
+    "dis_off": "",
+    "discount": "",
+    "percent": "",
+    "title": "My Home Scrubz Lemon Fighters Concentrate Dishwash Liquid 750 ml (Buy 1 Get 1 Free)",
+    "price": "199.00",
+    "uom": "(? 132.67/1 l)",
+    "new_price": "180.00"
+    },
+    {
+    "id": "44",
+    "img": "https://www.jiomart.com/images/product/150x150/491379471/harpic-power-plus-original-disinfectant-toilet-cleaner-600-ml-pack-of-3-product-images-o491379471-p491379471-0-202211011717.jpg",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Harpic Power Plus Original Disinfectant Toilet Cleaner 600 ml (Pack of 3)",
+    "price": "272.00",
+    "uom": "",
+    "new_price": "293.00"
+    },
+    {
+    "id": "45",
+    "img": "https://www.jiomart.com/images/product/150x150/491167950/harpic-floral-disinfectant-bathroom-cleaner-500-ml-product-images-o491167950-p491167950-0-202209222052.jpg",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Harpic Floral Disinfectant Bathroom Cleaner 500 ml",
+    "price": "92.00",
+    "uom": "",
+    "new_price": "99.00"
+    },
+    {
+    "id": "46",
+    "img": "https://www.jiomart.com/images/product/150x150/490002892/colin-glass-household-cleaner-spray-500-ml-product-images-o490002892-p490002892-0-202204281602.jpg",
+    "dis_off": "OFF",
+    "discount": "10",
+    "percent": "%",
+    "title": "Colin Glass & Household Cleaner Spray 500 ml",
+    "price": "86.00",
+    "uom": "",
+    "new_price": "96.00"
+    },
+    {
+    "id": "47",
+    "img": "https://www.jiomart.com/images/product/150x150/491299370/patanjali-gonyle-floor-cleaner-1-l-product-images-o491299370-p491299370-0-202203150348.jpg",
+    "dis_off": "OFF",
+    "discount": "8",
+    "percent": "%",
+    "title": "Patanjali Gonyle Floor Cleaner 1 L",
+    "price": "55.00",
+    "uom": "",
+    "new_price": "60.00"
+    },
+    {
+    "id": "48",
+    "img": "https://www.jiomart.com/images/product/150x150/490740295/exo-touch-shine-anti-bacterial-round-dishwash-bar-500-g-product-images-o490740295-p490740295-0-202212011728.jpg",
+    "dis_off": "OFF",
+    "discount": "8",
+    "percent": "%",
+    "title": "Exo Touch & Shine Anti-Bacterial Round Dishwash Bar 500 g",
+    "price": "55.00",
+    "uom": "",
+    "new_price": "60.00"
+    },
+    {
+    "id": "49",
+    "img": "https://www.jiomart.com/images/product/150x150/490008442/vim-lemon-concentrated-dishwash-liquid-250-ml-product-images-o490008442-p490008442-0-202203151822.jpg",
+    "dis_off": "OFF",
+    "discount": "9",
+    "percent": "%",
+    "title": "Vim Lemon Concentrated Dishwash Liquid 250 ml",
+    "price": "50.00",
+    "uom": "(? 20.00/100 ml)",
+    "new_price": "55.00"
+    },
+    {
+    "id": "50",
+    "img": "https://www.jiomart.com/images/product/150x150/490415503/comfort-after-wash-lily-fresh-fabric-conditioner-860-ml-product-images-o490415503-p490415503-0-202203170835.jpg",
+    "dis_off": "OFF",
+    "discount": "17",
+    "percent": "%",
+    "title": "Comfort After Wash Lily Fresh Fabric Conditioner 860 ml",
+    "price": "195.00",
+    "uom": "(? 22.67/100 ml)",
+    "new_price": "235.00"
+    },
+    {
+    "id": "51",
+    "img": "https://www.jiomart.com/images/product/150x150/491276808/patanjali-herbal-wash-neem-rose-detergent-cake-250-g-product-images-o491276808-p491276808-0-202205180058.jpg",
+    "dis_off": "OFF",
+    "discount": "13",
+    "percent": "%",
+    "title": "Patanjali Herbal Wash Neem & Rose Detergent Cake 250 g",
+    "price": "13.00",
+    "uom": "",
+    "new_price": "15.00"
+    },
+    {
+    "id": "52",
+    "img": "https://www.jiomart.com/images/product/150x150/490002753/lizol-citrus-disinfectant-surface-cleaner-1-l-product-images-o490002753-p490002753-0-202207081922.jpg",
+    "dis_off": "OFF",
+    "discount": "14",
+    "percent": "%",
+    "title": "Lizol Citrus Disinfectant Surface Cleaner 1 L",
+    "price": "175.00",
+    "uom": "",
+    "new_price": "205.00"
+    },
+    {
+    "id": "53",
+    "img": "https://www.jiomart.com/images/product/150x150/490008564/pitambari-shining-dishwash-powder-200-g-product-images-o490008564-p490008564-0-202203151140.jpg",
+    "dis_off": "OFF",
+    "discount": "41",
+    "percent": "%",
+    "title": "Pitambari Shining Dishwash Powder 200 g",
+    "price": "35.00",
+    "uom": "",
+    "new_price": "60.00"
+    },
+    {
+    "id": "54",
+    "img": "https://www.jiomart.com/images/product/150x150/491891398/ariel-matic-top-load-liquid-detergent-1-l-product-images-o491891398-p590106531-0-202205271633.jpg",
+    "dis_off": "OFF",
+    "discount": "14",
+    "percent": "%",
+    "title": "Ariel Matic Top Load Liquid Detergent 1 L",
+    "price": "189.00",
+    "uom": "",
+    "new_price": "220.00"
+    },
+    {
+    "id": "55",
+    "img": "https://www.jiomart.com/images/product/150x150/491299500/harpic-lemon-disinfectant-bathroom-cleaner-1-l-product-images-o491299500-p491299500-0-202209281910.jpg",
+    "dis_off": "OFF",
+    "discount": "12",
+    "percent": "%",
+    "title": "Harpic Lemon Disinfectant Bathroom Cleaner 1 L",
+    "price": "166.00",
+    "uom": "",
+    "new_price": "189.00"
+    },
+    {
+    "id": "56",
+    "img": "https://www.jiomart.com/images/product/150x150/490782427/domex-disinfectant-surface-floor-cleaner-1-l-product-images-o490782427-p490782427-0-202209121733.jpg",
+    "dis_off": "OFF",
+    "discount": "27",
+    "percent": "%",
+    "title": "Domex Disinfectant Surface & Floor Cleaner 1 L",
+    "price": "160.00",
+    "uom": "",
+    "new_price": "220.00"
+    },
+    {
+    "id": "57",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "dis_off": "OFF",
+    "discount": "7",
+    "percent": "%",
+    "title": "Good Knight Advanced Activ+ Mosquito Repellent Refill 45 ml (Pack of 2)",
+    "price": "153.00",
+    "uom": "",
+    "new_price": "165.00"
+    },
+    {
+    "id": "58",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "dis_off": "",
+    "discount": "",
+    "percent": "",
+    "title": "My Home Scrubz Lemon Dishwash Liquid 500 ml (Pack of 3)",
+    "price": "180.00",
+    "uom": "(? 120.00/1 l)",
+    "new_price": "160.00"
+    },
+    {
+    "id": "59",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "dis_off": "OFF",
+    "discount": "14",
+    "percent": "%",
+    "title": "HIT Cockroach Killer Spray 200 ml",
+    "price": "98.00",
+    "uom": "",
+    "new_price": "115.00"
+    },
+    {
+    "id": "60",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "dis_off": "",
+    "discount": "",
+    "percent": "",
+    "title": "Scrubz Lemon Power Dishwash Bar 200 g (Buy 3 Get 1 Free)",
+    "price": "48.00",
+    "uom": "",
+    "new_price": "35.00"
+    }
+    ],
+    "staples": [
+    {
+    "id": "1",
+    "img": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg",
+    "discount": "38",
+    "title": "Good Life Almonds 500 g",
+    "price": "339.00",
+    "new_price": "549.00",
+    "uom": ""
+    },
+    {
+    "id": "2",
+    "img": "https://www.jiomart.com/images/product/150x150/491186631/good-life-w320-cashews-500-g-product-images-o491186631-p491186631-0-202205180138.jpg",
+    "discount": "20",
+    "title": "Good Life (W320) Cashews 500 g",
+    "price": "399.00",
+    "new_price": "499.00",
+    "uom": ""
+    },
+    {
+    "id": "3",
+    "img": "https://www.jiomart.com/images/product/150x150/491278308/priya-fortified-with-vitamin-a-d-refined-sunflower-oil-1-l-product-images-o491278308-p491278308-0-202203170524.jpg",
+    "discount": "30",
+    "title": "Priya Fortified With Vitamin A & D Refined Sunflower Oil 1 L",
+    "price": "149.00",
+    "new_price": "215.00",
+    "uom": ""
+    },
+    {
+    "id": "4",
+    "img": "https://www.jiomart.com/images/product/150x150/491551495/good-life-pure-crystal-sugar-m-5-kg-product-images-o491551495-p491551495-0-202205272019.jpg",
+    "discount": "21",
+    "title": "Good Life Pure Crystal Sugar (M) 5 kg",
+    "price": "215.00",
+    "new_price": "275.00",
+    "uom": ""
+    },
+    {
+    "id": "5",
+    "img": "https://www.jiomart.com/images/product/150x150/491376099/arwa-standard-katrni-rice-10-kg-product-images-o491376099-p491376099-0-202205191802.jpg",
+    "discount": "16",
+    "title": "Arwa Standard Katrni Rice 10 kg",
+    "price": "499.00",
+    "new_price": "600.00",
+    "uom": "(? 49.90/1 kg)"
+    },
+    {
+    "id": "6",
+    "img": "https://www.jiomart.com/images/product/150x150/491349724/matta-vadi-rice-10-kg-product-images-o491349724-p491349724-0-202204281545.jpg",
+    "discount": "8",
+    "title": "Matta Vadi Rice 10 kg",
+    "price": "639.00",
+    "new_price": "700.00",
+    "uom": "(? 63.90/1 kg)"
+    },
+    {
+    "id": "7",
+    "img": "https://www.jiomart.com/images/product/150x150/490862088/baskathi-premium-rice-10-kg-product-images-o490862088-p490862088-0-202208221852.jpg",
+    "discount": "11",
+    "title": "Baskathi Premium Rice 10 kg",
+    "price": "705.00",
+    "new_price": "800.00",
+    "uom": "(? 70.50/1 kg)"
+    },
+    {
+    "id": "8",
+    "img": "https://www.jiomart.com/images/product/150x150/491278616/good-life-raw-peanuts-500-g-product-images-o491278616-p491278616-0-202204281543.jpg",
+    "discount": "29",
+    "title": "Good Life Raw Peanuts 500 g",
+    "price": "85.00",
+    "new_price": "120.00",
+    "uom": ""
+    },
+    {
+    "id": "9",
+    "img": "https://www.jiomart.com/images/product/150x150/490000073/tata-iodised-salt-1-kg-product-images-o490000073-p490000073-0-202206021938.jpg",
+    "discount": "10",
+    "title": "Tata Iodised Salt 1 kg",
+    "price": "25.00",
+    "new_price": "28.00",
+    "uom": ""
+    },
+    {
+    "id": "10",
+    "img": "https://www.jiomart.com/images/product/150x150/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-0-202204281542.jpg",
+    "discount": "16",
+    "title": "Good Life Sugar (M) 1 kg",
+    "price": "46.00",
+    "new_price": "55.00",
+    "uom": ""
+    },
+    {
+    "id": "11",
+    "img": "https://www.jiomart.com/images/product/150x150/491417390/tur-arhar-dal-2-kg-product-images-o491417390-p491417390-0-202203170610.jpg",
+    "discount": "20",
+    "title": "Tur / Arhar Dal 2 kg",
+    "price": "240.00",
+    "new_price": "300.00",
+    "uom": ""
+    },
+    {
+    "id": "12",
+    "img": "https://www.jiomart.com/images/product/150x150/491696003/sugar-m-2-kg-product-images-o491696003-p590108360-0-202205272027.jpg",
+    "discount": "19",
+    "title": "Sugar (M) 2 kg",
+    "price": "81.00",
+    "new_price": "100.00",
+    "uom": ""
+    },
+    {
+    "id": "13",
+    "img": "https://www.jiomart.com/images/product/150x150/490000052/fortune-sunlite-refined-sunflower-oil-1-l-product-images-o490000052-p490000052-0-202203150155.jpg",
+    "discount": "16",
+    "title": "Fortune Sunlite Refined Sunflower Oil 1 L",
+    "price": "167.00",
+    "new_price": "199.00",
+    "uom": ""
+    },
+    {
+    "id": "14",
+    "img": "https://www.jiomart.com/images/product/150x150/490861956/madhur-pure-hygienic-sugar-5-kg-product-images-o490861956-p490861956-0-202208221852.jpg",
+    "discount": "21",
+    "title": "Madhur Pure & Hygienic Sugar 5 kg",
+    "price": "232.00",
+    "new_price": "295.00",
+    "uom": ""
+    },
+    {
+    "id": "15",
+    "img": "https://www.jiomart.com/images/product/150x150/491349664/suji-rawa-500-g-product-images-o491349664-p491349664-0-202203170612.jpg",
+    "discount": "55",
+    "title": "Suji / Rawa 500 g",
+    "price": "22.00",
+    "new_price": "49.00",
+    "uom": ""
+    },
+    {
+    "id": "16",
+    "img": "https://www.jiomart.com/images/product/150x150/490750662/aashirvaad-superior-mp-whole-wheat-atta-10-kg-product-images-o490750662-p590150649-0-202203171046.jpg",
+    "discount": "14",
+    "title": "Aashirvaad Superior MP Whole Wheat Atta 10 kg",
+    "price": "469.00",
+    "new_price": "551.00",
+    "uom": "(? 46.90/1 kg)"
+    },
+    {
+    "id": "17",
+    "img": "https://www.jiomart.com/images/product/150x150/491632854/regular-value-pack-plain-cashews-500-g-product-images-o491632854-p491632854-0-202212071947.jpg",
+    "discount": "22",
+    "title": "Regular Value Pack Plain Cashews 500 g",
+    "price": "389.00",
+    "new_price": "500.00",
+    "uom": ""
+    },
+    {
+    "id": "18",
+    "img": "https://www.jiomart.com/images/product/150x150/490012719/gemini-refined-sunflower-oil-1-l-product-images-o490012719-p490012719-0-202203151822.jpg",
+    "discount": "26",
+    "title": "Gemini Refined Sunflower Oil 1 L",
+    "price": "169.00",
+    "new_price": "230.00",
+    "uom": ""
+    },
+    {
+    "id": "19",
+    "img": "https://www.jiomart.com/images/product/150x150/491185109/good-life-jeera-100-g-product-images-o491185109-p491185109-0-202207070147.jpg",
+    "discount": "50",
+    "title": "Good Life Jeera 100 g",
+    "price": "43.00",
+    "new_price": "86.00",
+    "uom": "(? 21.50/50 g)"
+    },
+    {
+    "id": "20",
+    "img": "https://www.jiomart.com/images/product/150x150/490005648/saffola-gold-healthy-lifestyle-rice-bran-based-blended-oil-5-l-1-l-free-product-images-o490005648-p490005648-0-202204281547.jpg",
+    "discount": "6",
+    "title": "Saffola Gold Healthy Lifestyle Rice Bran Based Blended Oil 5 L + 1 L Free",
+    "price": "1089.00",
+    "new_price": "1170.00",
+    "uom": "(? 181.50/1 l)"
+    },
+    {
+    "id": "21",
+    "img": "https://www.jiomart.com/images/product/150x150/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-product-images-o490005641-p490005641-0-202206241206.jpg",
+    "discount": "16",
+    "title": "Aashirvaad Select Sharbati Whole Wheat Atta 5 kg",
+    "price": "277.00",
+    "new_price": "331.00",
+    "uom": "(? 55.40/1 kg)"
+    },
+    {
+    "id": "22",
+    "img": "https://www.jiomart.com/images/product/150x150/490830932/tata-sampann-unpolished-tur-arhar-dal-1-kg-product-images-o490830932-p490830932-0-202207201859.jpg",
+    "discount": "18",
+    "title": "Tata Sampann Unpolished Tur / Arhar Dal 1 kg",
+    "price": "154.00",
+    "new_price": "189.00",
+    "uom": ""
+    },
+    {
+    "id": "23",
+    "img": "https://www.jiomart.com/images/product/150x150/490437774/saffola-active-pro-weight-watchers-ricebran-based-blended-oil-1-l-product-images-o490437774-p490437774-0-202203170759.jpg",
+    "discount": "12",
+    "title": "Saffola Active Pro Weight Watchers RiceBran Based Blended Oil 1 L",
+    "price": "175.00",
+    "new_price": "199.00",
+    "uom": ""
+    },
+    {
+    "id": "24",
+    "img": "https://www.jiomart.com/images/product/150x150/491349648/besan-500-g-product-images-o491349648-p491349648-0-202206231932.jpg",
+    "discount": "54",
+    "title": "Besan 500 g",
+    "price": "39.00",
+    "new_price": "85.00",
+    "uom": ""
+    },
+    {
+    "id": "25",
+    "img": "https://www.jiomart.com/images/product/150x150/490000525/fortune-premium-kachi-ghani-pure-mustard-oil-1-l-product-images-o490000525-p490000525-0-202203170454.jpg",
+    "discount": "19",
+    "title": "Fortune Premium Kachi Ghani Pure Mustard Oil 1 L",
+    "price": "185.00",
+    "new_price": "229.00",
+    "uom": ""
+    },
+    {
+    "id": "26",
+    "img": "https://www.jiomart.com/images/product/150x150/491203242/good-life-yellow-kishmish-500-g-product-images-o491203242-p491203242-0-202204281545.jpg",
+    "discount": "18",
+    "title": "Good Life Yellow Kishmish 500 g",
+    "price": "149.00",
+    "new_price": "183.00",
+    "uom": ""
+    },
+    {
+    "id": "27",
+    "img": "https://www.jiomart.com/images/product/150x150/491432711/moong-dal-2-kg-product-images-o491432711-p491432711-0-202205191636.jpg",
+    "discount": "24",
+    "title": "Moong Dal 2 kg",
+    "price": "204.00",
+    "new_price": "270.00",
+    "uom": ""
+    },
+    {
+    "id": "28",
+    "img": "https://www.jiomart.com/images/product/150x150/490012733/dhara-kachi-ghani-mustard-oil-1-l-pouch-product-images-o490012733-p490012733-0-202208221752.jpg",
+    "discount": "19",
+    "title": "Dhara Kachi Ghani Mustard Oil 1 L (Pouch)",
+    "price": "181.00",
+    "new_price": "225.00",
+    "uom": ""
+    },
+    {
+    "id": "29",
+    "img": "https://www.jiomart.com/images/product/150x150/490863714/daawat-rozana-super-basmati-rice-1-kg-product-images-o490863714-p490863714-0-202203171018.jpg",
+    "discount": "23",
+    "title": "Daawat Rozana Super Basmati Rice 1 kg",
+    "price": "75.00",
+    "new_price": "98.00",
+    "uom": ""
+    },
+    {
+    "id": "30",
+    "img": "https://www.jiomart.com/images/product/150x150/490005647/fortune-sunlite-refined-sunflower-oil-5-l-product-images-o490005647-p490005647-0-202205180140.jpg",
+    "discount": "21",
+    "title": "Fortune Sunlite Refined Sunflower Oil 5 L",
+    "price": "899.00",
+    "new_price": "1145.00",
+    "uom": "(? 179.80/1 l)"
+    },
+    {
+    "id": "31",
+    "img": "https://www.jiomart.com/images/product/150x150/490022513/gulab-filtered-groundnut-oil-5-l-product-images-o490022513-p490022513-0-202206301905.jpg",
+    "discount": "21",
+    "title": "Gulab Gold Filtered Groundnut Oil 5 L",
+    "price": "915.00",
+    "new_price": "1165.00",
+    "uom": "(? 183.00/1 l)"
+    },
+    {
+    "id": "32",
+    "img": "https://www.jiomart.com/images/product/150x150/490022514/gulab-gold-filtered-groundnut-oil-15-l-product-images-o490022514-p490022514-0-202206301905.jpg",
+    "discount": "24",
+    "title": "Gulab Gold Filtered Groundnut Oil 15 L",
+    "price": "2569.00",
+    "new_price": "3420.00",
+    "uom": "(? 171.27/1 l)"
+    },
+    {
+    "id": "33",
+    "img": "https://www.jiomart.com/images/product/150x150/491458243/good-life-free-flow-iodised-salt-1-kg-product-images-o491458243-p491458243-0-202204281549.jpg",
+    "discount": "40",
+    "title": "Good Life Free Flow Iodised Salt 1 kg",
+    "price": "15.00",
+    "new_price": "25.00",
+    "uom": ""
+    },
+    {
+    "id": "34",
+    "img": "https://www.jiomart.com/images/product/150x150/491187264/good-life-tur-dal-1-kg-product-images-o491187264-p491187264-0-202203170912.jpg",
+    "discount": "25",
+    "title": "Good Life Tur Dal 1 kg",
+    "price": "137.00",
+    "new_price": "184.00",
+    "uom": ""
+    },
+    {
+    "id": "35",
+    "img": "https://www.jiomart.com/images/product/150x150/491185141/good-life-big-mustard-100-g-product-images-o491185141-p491185141-0-202203142214.jpg",
+    "discount": "50",
+    "title": "Good Life Big Mustard 100 g",
+    "price": "16.00",
+    "new_price": "32.00",
+    "uom": "(? 8.00/50 g)"
+    },
+    {
+    "id": "36",
+    "img": "https://www.jiomart.com/images/product/150x150/490675817/aashirvaad-multigrain-atta-5-kg-product-images-o490675817-p490675817-0-202206231516.jpg",
+    "discount": "17",
+    "title": "Aashirvaad Multigrain Atta 5 kg",
+    "price": "290.00",
+    "new_price": "352.00",
+    "uom": "(? 58.00/1 kg)"
+    },
+    {
+    "id": "37",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "30",
+    "title": "Chana Dal 2 kg",
+    "price": "140.00",
+    "new_price": "200.00",
+    "uom": ""
+    },
+    {
+    "id": "38",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "32",
+    "title": "Sunny Soya Fit Refined Soyabean Oil 1 L (Pouch)",
+    "price": "146.00",
+    "new_price": "216.00",
+    "uom": ""
+    },
+    {
+    "id": "39",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "54",
+    "title": "Good Life Jeera 200 g",
+    "price": "79.00",
+    "new_price": "172.00",
+    "uom": "(? 19.75/50 g)"
+    },
+    {
+    "id": "40",
+    "img": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+    "discount": "55",
+    "title": "Maida 500 g",
+    "price": "22.00",
+    "new_price": "49.00",
+    "uom": ""
+    }
+    ]
+    }
